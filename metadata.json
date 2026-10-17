@@ -1,0 +1,6 @@
+{
+  "name": "AgentShield",
+  "description": "AI-powered data leak prevention tool that detects sensitive information before it's shared with external AI tools, and explains the risk in plain language through AgentGuard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
